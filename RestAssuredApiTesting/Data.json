@@ -1,0 +1,15 @@
+{
+      	"email":"aman@gmail.com",
+      	"firstName":"aman",
+	"lastName":"Shukla",
+	"address":
+        {
+	   "state":"Chandigarh",
+	   "country":"India",
+	   "abc":
+	   {	
+		"dist":"punjab",
+		"pin":"141001"
+	   }
+	}	
+}	
